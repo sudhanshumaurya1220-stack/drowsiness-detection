@@ -70,8 +70,7 @@ After launching the application:
 - If prolonged eye closure is detected, an alarm sound is triggered automatically.
 
 ## Screenshots
-![Screenshot](<img width="1402" height="1122" alt="Images" src="https://github.com/user-attachments/assets/4664a80e-cf62-4f39-b7fc-e58b57ef782c" />
-)
+![Screenshot](Images.png)
 
 
 ## Future Improvements
