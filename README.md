@@ -70,7 +70,7 @@ After launching the application:
 - If prolonged eye closure is detected, an alarm sound is triggered automatically.
 
 ## Screenshots
-![Screenshot](images/Images.png)
+![Screenshot]("C:\Users\sudha\OneDrive\Documents\pyhton project\Drowsiness-Detection-System-main\images\Images.png")
 
 
 ## Future Improvements
